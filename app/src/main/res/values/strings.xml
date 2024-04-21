@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">retrofit</string>
+    <string name="title">judul</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="write_your_review">write your review</string>
+    <string name="review">review</string>
+    <string name="send">kirim</string>
+</resources>
